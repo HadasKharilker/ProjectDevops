@@ -5,10 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Guru current Date yarden gabay</title>
+<title>Guru current Date yarden gabay and hadas kharilker</title>
 </head>
 <body>
 Today's date by 1 Yarden: <%= (new java.util.Date()).toLocaleString()%>
 </body>
 
+    
 </html>
