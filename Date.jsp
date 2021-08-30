@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title> Date yarden gabay and hadas kharilker</title>
+<title> Date yarden gabay and hadas kharilker!!</title>
 </head>
 <body>
 Today's date by Yarden and Hadas: <%= (new java.util.Date()).toLocaleString()%>
