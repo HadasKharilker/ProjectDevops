@@ -8,7 +8,7 @@
 <title> Date yarden gabay and hadas kharilker!!</title>
 </head>
 <body>
-Today's date by Yarden and Hadas: <%= (new java.util.Date()).toLocaleString()%>
+Today's date by Yarden and Hadas!!: <%= (new java.util.Date()).toLocaleString()%>
 </body>
 
     
